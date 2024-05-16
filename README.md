@@ -36,8 +36,8 @@ By leveraging insights from the analysis, the Superstore Giant can:
 14.	What are the best 5 performing cities by sales and profits?
 
 # Data Dictionary
-## Row ID: Unique identifier for each entry.
-## Order ID: Unique identifier for each order.
+= Row ID: Unique identifier for each entry.
+= Order ID: Unique identifier for each order.
 •	Order Date: Date when the order was placed.
 •	Ship Date: Date when the order was shipped.
 •	Ship Mode: Mode of shipping chosen by the customer.
