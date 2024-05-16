@@ -36,8 +36,8 @@ By leveraging insights from the analysis, the Superstore Giant can:
 14.	What are the best 5 performing cities by sales and profits?
 
 # Data Dictionary
-•	Row ID: Unique identifier for each entry.
-•	Order ID: Unique identifier for each order.
+## •	Row ID: Unique identifier for each entry.
+##•	Order ID: Unique identifier for each order.
 •	Order Date: Date when the order was placed.
 •	Ship Date: Date when the order was shipped.
 •	Ship Mode: Mode of shipping chosen by the customer.
@@ -74,14 +74,7 @@ Data Preparation:
 6.	Total Unique Order: 5,009 K
 7.	Total Quantity Sold: 38 K
 8.	Average sales per customer: $ 229.86 
-
-Below is a 3-page Dashboard
  
- 
- 
-
-
-
 # Interpretations and Business Implications of Findings
 # Question 1:
 # Total Sales by Product Category:
