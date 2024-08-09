@@ -36,27 +36,28 @@ By leveraging insights from the analysis, the Superstore Giant can:
 14.	What are the best 5 performing cities by sales and profits?
 
 # Data Dictionary
-= Row ID: Unique identifier for each entry.
-= Order ID: Unique identifier for each order.
-•	Order Date: Date when the order was placed.
-•	Ship Date: Date when the order was shipped.
-•	Ship Mode: Mode of shipping chosen by the customer.
-•	Customer ID: Unique identifier for each customer.
-•	Customer Name: Name of the customer.
-•	Segment: Customer segment (e.g. Consumer, Corporate, Home Office).
-•	Country: Country of residence of the customer.
-•	City: City of residence of the customer.
-•	State: State of residence of the customer.
-•	Postal Code: Postal code of the customer.
-•	Region: Region of the country where the customer resides.
-•	Product ID: Unique identifier for each product.
-•	Category: Product category (e.g. Furniture, Office Supplies, Technology).
-•	Sub-Category: Sub-category of the product.
-•	Product Name: Name of the product.
-•	Sales: Sales amount of the product.
-•	Quantity: Quantity of the product.
-•	Discount: Discount provided on the product.
-•	Profit: Profit or loss incurred from the sale of the product.
+- Row ID: Unique identifier for each entry.
+- Order ID: Unique identifier for each order.
+- Order Date: Date when the order was placed.
+- Ship Date: Date when the order was shipped.
+- Ship Mode: Mode of shipping chosen by the customer.
+- Customer ID: Unique identifier for each customer.
+- Customer Name: Name of the customer.
+- Segment: Customer segment (e.g. Consumer, Corporate, Home Office).
+- Country: Country of residence of the customer.
+- City: City of residence of the customer.
+- State: State of residence of the customer.
+- Postal Code: Postal code of the customer.
+- Region: Region of the country where the customer resides.
+- Product ID: Unique identifier for each product.
+- Category: Product category (e.g. Furniture, Office Supplies, Technology).
+- Sub-Category: Sub-category of the product.
+- Product Name: Name of the product.
+- Sales: Sales amount of the product.
+- Quantity: Quantity of the product.
+- Discount: Discount provided on the product.
+- Profit: Profit or loss incurred from the sale of the product.
+  
 The dataset span from 2014 to 2017, January to December. 
 
 # Methodology 
